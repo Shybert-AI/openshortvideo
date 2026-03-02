@@ -266,7 +266,8 @@ MAX_CONTENT_LENGTH = 16 * 1024 * 1024  # 16MB
 
 - **邮箱**: 854197093@qq.com
 - **技术交流群**: 1029629549
-- <img src="assert/QQ.png" alt="QQ群" style="width: 50%; max-width: 400px;">
+- <img src="assert/QQ.png" alt="QQ群" style="width: 40%; max-width: 300px;">
+
 
 ## 🙏 致谢
 
