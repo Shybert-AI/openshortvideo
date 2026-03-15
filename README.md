@@ -5,31 +5,7 @@
 **OpenShortVideo** 是一个基于AI的短视频智能制作平台，集成了剧本创作、角色管理、场景生成、镜头制作等完整的工作流，帮助创作者快速生成高质量的短视频内容。
 ## demo
 ![img5.png](assert/img5.png)
-<table>
-  <tr>
-    <th>第1集 冰封倒计时</th>
-    <th>第2集 地表初征</th>
-    <th>第3集 熔炉微光</th>
-  </tr>
-  <tr>
-    <td>
-      <video src="https://backend.appmiaoda.com/projects/supabase268304199530360832/storage/v1/object/public/app-8u3vvyt9el8h_videos/cd0c9a9a-f88f-4037-ac4d-67787035d7c0/1773559871307_uscmr7.mp4" controls width="100%">
-        您的浏览器不支持 HTML5 视频播放，请 <a href="https://backend.appmiaoda.com/projects/supabase268304199530360832/storage/v1/object/public/app-8u3vvyt9el8h_videos/cd0c9a9a-f88f-4037-ac4d-67787035d7c0/1773559871307_uscmr7.mp4">点击下载</a>。
-      </video>
-    </td>
-    <td>
-      <video src="https://backend.appmiaoda.com/projects/supabase268304199530360832/storage/v1/object/public/app-8u3vvyt9el8h_videos/cd0c9a9a-f88f-4037-ac4d-67787035d7c0/1773560713617_26udhe.mp4" controls width="100%">
-        您的浏览器不支持 HTML5 视频播放，请 <a href="https://backend.appmiaoda.com/projects/supabase268304199530360832/storage/v1/object/public/app-8u3vvyt9el8h_videos/cd0c9a9a-f88f-4037-ac4d-67787035d7c0/1773560713617_26udhe.mp4">点击下载</a>。
-      </video>
-    </td>
-    <td>
-      <video src="https://backend.appmiaoda.com/projects/supabase268304199530360832/storage/v1/object/public/app-8u3vvyt9el8h_videos/cd0c9a9a-f88f-4037-ac4d-67787035d7c0/1773560751687_16ev0k.mp4" controls width="100%">
-        您的浏览器不支持 HTML5 视频播放，请 <a href="https://backend.appmiaoda.com/projects/supabase268304199530360832/storage/v1/object/public/app-8u3vvyt9el8h_videos/cd0c9a9a-f88f-4037-ac4d-67787035d7c0/1773560751687_16ev0k.mp4">点击下载</a>。
-      </video>
-    </td>
-  </tr>
-</table>
----
+
 ## ✨ 核心功能
 
 ### 🎬 智能视频制作
